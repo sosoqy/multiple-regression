@@ -1,2 +1,2 @@
 # multiple-regression
-multiple-regression实验 19-21张结束
+multiple-regression实验 19-21章结束
